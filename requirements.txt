@@ -2,4 +2,4 @@ pandas
 matplotlib
 mplcursors
 rasterio
-<parameter name="filePath">e:\Dr.Usman-Work\Offline-methane-exe\requirements.txt
+cartopy
