@@ -16,7 +16,7 @@ A simple desktop app to visualize methane hotspots in Lahore, Pakistan, with tim
    ```
 3. Go into the project folder:
    ```
-   cd offline-methane-exe
+   cd Methane_TimeGraph_App
    ```
 
 ### Step 2: Install Requirements
